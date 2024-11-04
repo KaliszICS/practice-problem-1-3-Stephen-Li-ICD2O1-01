@@ -5,8 +5,8 @@ def q1():
   print("\n* * * * * *\n *       *\n  *     *\n   *   *\n    * *\n     *")
 
 def q2():
-  print("Hello ", end = "")
-  print("World\n")
+  print("Hello", end = "")
+  print(" World")
 
 def q3():
   print('"Man"\n"Board"\n"Man Overboard"')
